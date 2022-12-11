@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "jamalov",
+  "db_port": 5432,
+  "secret": "FaqatMenBilaman",
+  "db_name": "bike-rental",
+  "access_key": "yashirin kalit",
+  "refresh_key": "hechkimbilmasin",
+  "access_time": "50m",
+  "refresh_time": "30d",
+  "refresh_ms": 2592000000,
+  "crypt_password": "Very_Very_Very_Very_Secret_PasssswooooorD",
+  "iv": "18273645"
+}
